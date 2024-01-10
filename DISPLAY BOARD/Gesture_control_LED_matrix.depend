@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1698372159 source:d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\uart.c
+	"uart.h"
+
+1697668003 d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\uart.h
+	<mcs51/8051.h>
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+
+1702851882 source:d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\i2c.c
+	"i2c.h"
+	"string2hex.h"
+
+1702837495 d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\i2c.h
+	<mcs51/8051.h>
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1702018944 d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\string2hex.h
+	<stdbool.h>
+
+1699259130 source:d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\string2hex.c
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdbool.h>
+	"string2hex.h"
+	"uart.h"
+
+1702854807 source:d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\main.c
+	<mcs51/8051.h>
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	"uart.h"
+	"string2hex.h"
+	"i2c.h"
+	"WritetoLEDMatrix.h"
+
+1702855112 d:\coursesms\esd\esd project\esd_project\anagha\8051 code blocks\gesture_control_led_matrix\writetoledmatrix.h
+	<stdint.h>
+
+1702870420 source:d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\string2hex.c
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdbool.h>
+	"string2hex.h"
+	"uart.h"
+
+1702870430 d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\string2hex.h
+	<stdbool.h>
+
+1702871340 d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\uart.h
+	<mcs51/8051.h>
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+
+1702871502 source:d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\i2c.c
+	"i2c.h"
+	"string2hex.h"
+
+1702871569 d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\i2c.h
+	<mcs51/8051.h>
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1702871308 source:d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\uart.c
+	"uart.h"
+
+1702871145 source:d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\writetoledmatrix.c
+	"WritetoLEDMatrix.h"
+	"i2c.h"
+
+1702871186 d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\writetoledmatrix.h
+	<stdint.h>
+
+1702870456 source:d:\1st_sem\esd\final_project\gesture_control_led_matrix\gesture_control_led_matrix\main.c
+	<mcs51/8051.h>
+	<at89c51ed2.h>
+	<mcs51reg.h>
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	"uart.h"
+	"i2c.h"
+	"WritetoLEDMatrix.h"
+
